@@ -134,4 +134,4 @@ Contributions are welcome! If you know of any useful tools that could support a 
 
 ---
 
-This **README.md** provides a structured guide for each phase of CBL, linking tools and technologies to their most appropriate usage. Let me know if you'd like any adjustments or additional sections. 🚀
+This **README.md** provides a structured guide for each phase of CBL, linking tools and technologies to their most appropriate usage. 🚀
