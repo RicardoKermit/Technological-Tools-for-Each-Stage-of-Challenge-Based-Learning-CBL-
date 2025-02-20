@@ -38,11 +38,15 @@ The **Engage phase** aims to spark interest and help students identify the main 
 ### 🔧 **Recommended Tools for the Engage Phase**  
 - **Collaboration & Brainstorming**:  
   - 🛠️ **Miro, MURAL** – Collaborative whiteboards for brainstorming and challenge mapping.  
-  - 🛠️ **Jamboard (Google), Microsoft Whiteboard** – Visual collaboration tools for brainstorming.  
+  - 🛠️ **Jamboard (Google), Microsoft Whiteboard** – Visual collaboration tools for brainstorming.
+  - 🛠️ **Moodle (Forum)** – Supports discussions and exchange of ideas.
+  - 🛠️ **Moodle (Wiki)** – Encourages collaborative knowledge building.
+  - 🛠️ **Padlet** – Interactive collaboration board for brainstorming and idea sharing.
 
 - **Stakeholder Engagement & Communication**:  
   - 📞 **Zoom, Google Meet, Microsoft Teams** – Video conferencing platforms for live discussions with stakeholders.  
-  - 📢 **Slack, Microsoft Teams (Chat)** – Messaging tools for ongoing communication with students and stakeholders.  
+  - 📢 **Slack, Microsoft Teams (Chat)** – Messaging tools for ongoing communication with students and stakeholders.
+  - 📞** BigBlueButton (Moodle Plugin)** – Live video conferencing and online meetings. 
 
 - **Task Management & Organization**:  
   - 📋 **Trello, Asana, Notion** – Task management tools for organizing activities and tracking progress.  
@@ -55,11 +59,14 @@ The **Investigate phase** focuses on research, data collection, and analysis. St
 ### 🔧 **Recommended Tools for the Investigate Phase**  
 - **Research & Information Gathering**:  
   - 🔍 **Google Scholar, ResearchGate, Microsoft Academic** – Academic search engines for finding scholarly articles.  
-  - 📚 **Zotero, Mendeley, EndNote** – Tools for managing research references and citations.  
+  - 📚 **Zotero, Mendeley, EndNote** – Tools for managing research references and citations.
+  - 📚 **Moodle (Database)** – Stores research materials.
+  - 📚 **Moodle (Glossary)** – Helps define key concepts.
 
 - **Data Collection & Surveys**:  
   - 📋 **Google Forms, Microsoft Forms, Typeform** – Tools to create surveys and collect feedback from users.  
-  - 📱 **SurveyMonkey** – Advanced survey platform with customizable forms and analytics.  
+  - 📱 **SurveyMonkey** – Advanced survey platform with customizable forms and analytics.
+  - 🗃 **Moodle (Questionnaire)** – Collects survey responses from students and stakeholders.  
 
 - **Data Analysis & Visualization**:  
   - 📊 **Excel, Google Sheets** – Simple tools for data entry, calculations, and basic visualization.  
@@ -68,7 +75,9 @@ The **Investigate phase** focuses on research, data collection, and analysis. St
 
 - **Collaborative Research & Document Sharing**:  
   - 🛠️ **Notion, Coda** – Platforms to organize notes, research, and project materials.  
-  - ✍️ **Google Docs, Microsoft Word Online** – Real-time document collaboration tools.  
+  - ✍️ **Google Docs, Microsoft Word Online** – Real-time document collaboration tools.
+  - 🔧 **Etherpad Lite (Moodle Plugin)** – Real-time collaborative text editing.
+ 
 
 ---
 
@@ -79,8 +88,9 @@ The **Act phase** focuses on turning ideas into reality. Students develop, proto
 - **Prototyping & Solution Design**:  
   - 🎨 **Figma, Adobe XD** – Tools for UI/UX design and interactive prototypes.  
   - 🧩 **Canva** – Visual design tool for creating presentations, infographics, and marketing materials.  
-  - ⚙️ **Tinkercad** – Tool for 3D prototyping and 3D printing.  
-  - 💻 **MIT App Inventor, Thunkable** – No-code platforms to create mobile apps.  
+  - ⚙️ **Tinkercad** – Tool for 3D prototyping and 3D printing.
+  - 💻 **MIT App Inventor, Thunkable** – No-code platforms to create mobile apps.
+  - 🎨 **Moodle (Lesson)** – Supports structured content creation. 
 
 - **Software Development & Code Collaboration**:  
   - 💻 **Visual Studio Code, Replit** – Code editors and development environments.  
@@ -94,11 +104,16 @@ The **Act phase** focuses on turning ideas into reality. Students develop, proto
 - **Presentation & Sharing of Results**:  
   - 🎉 **Canva, Microsoft PowerPoint, Google Slides** – Tools for creating impactful presentations.  
   - 📹 **Loom, OBS Studio** – Video recording and screen capture tools for presenting solutions.  
-  - 🌐 **YouTube, Vimeo** – Platforms for sharing final solution videos with a wider audience.  
+  - 🌐 **YouTube, Vimeo** – Platforms for sharing final solution videos with a wider audience.
+  - 🎤 **Moodle (Workshop)** – Facilitates peer review and feedback. 
 
 - **Implementation & Impact Monitoring**:  
   - 📈 **Google Analytics** – For measuring the impact of websites and digital products.  
-  - 📋 **Trello, Asana** – Task tracking tools to follow up on actions after implementation.  
+  - 📋 **Trello, Asana** – Task tracking tools to follow up on actions after implementation.
+
+- **Evaluation & Certification**:
+  - 🏆 **Moodle (Badges)** – Digital credentialing system for student achievements.
+  - 📚 **Moodle (Quiz)** – Enables structured assessments.
 
 ---
 
@@ -109,7 +124,8 @@ Some tools support multiple stages of CBL, from the start of the process to its 
 - 💻 **Notion, Coda, Google Docs** – Tools for collaborative note-taking, documentation, and file sharing.  
 - 🎥 **Zoom, Microsoft Teams, Google Meet** – Video conferencing for real-time communication.  
 - 📋 **Trello, Asana, ClickUp** – Task management tools for tracking progress.  
-- ☁️ **Google Drive, OneDrive, Dropbox** – Cloud storage and file sharing platforms.  
+- ☁️ **Google Drive, OneDrive, Dropbox** – Cloud storage and file sharing platforms.
+- 💻 **Moodle** (BigBlueButton, Forum, Glossary, Badges, Wiki, Lesson, Quiz, Workshop)  
 
 ---
 
@@ -117,10 +133,10 @@ Some tools support multiple stages of CBL, from the start of the process to its 
 
 | **Phase**         | **Goal**                    | **Key Tools**                                       |
 |-------------------|----------------------------|-----------------------------------------------------|
-| **Engage**         | Identify the challenge     | Miro, Jamboard, Zoom, Slack, Trello, Microsoft Teams |
-| **Investigate**    | Research and analyze data  | Google Scholar, Zotero, Google Forms, Tableau, Google Docs |
-| **Act**            | Prototype and deliver      | Figma, Canva, Tinkercad, MIT App Inventor, Loom, GitHub |
-| **All Phases**     | Collaboration & organization | Notion, Google Docs, Trello, Google Drive, Zoom    |
+| **Engage**         | Identify the challenge     | Miro, Jamboard, Zoom, Slack, Trello, Microsoft Teams, Moodle (Forum, Wiki), Padlet, BigBlueButton |
+| **Investigate**    | Research and analyze data  | Google Scholar, Zotero, Google Forms, Tableau, Google Docs. Moodle (Database, Glossary, Questionnaire), Etherpad Lite |
+| **Act**            | Prototype and deliver      | Figma, Canva, Tinkercad, MIT App Inventor, Loom, GitHub, Moodle (Lesson, Workshop, Badges, Quiz) |
+| **All Phases**     | Collaboration & organization | Notion, Google Docs, Trello, Google Drive, Zoom, Moodle (BigBlueButton, Forum, Wiki)|
 
 ---
 
